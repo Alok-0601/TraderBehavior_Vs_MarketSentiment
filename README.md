@@ -5,7 +5,7 @@
 
 * Analyzed 211,224 cryptocurrency trades from 32 traders.
 * Combined trading data with Bitcoin Fear & Greed Index data from 2023 to 2025.
-* The dataset was clean and had almost no missing values.
+* The dataset was clean and also had almost no missing values.
 
 ## Key Findings
 
