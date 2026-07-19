@@ -33,7 +33,7 @@
 5. Top Traders Perform Better in Every Market Condition
 
 * The best traders consistently earned much higher profits than lower-performing traders.
-* Their performance remained strong during Fear, Neutral, and Greed market conditions.
+* Their performance remained strong during Fear, Neutral, and Greed market conditions as well.
 
 6. Market Sentiment Alone Does Not Decide Profitability
 
